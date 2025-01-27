@@ -1,6 +1,6 @@
 
 # flexcom-tech's Website
 
-Visit **[website url](#)** 🚀
+Visit **[flexcom-tech.github.io](https://flexcom-tech.github.io)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
